@@ -1,0 +1,13 @@
+# Virtual env
+.venv/
+
+# Python junk
+__pycache__/
+*.pyc
+
+# IDEs
+.idea/
+
+# Generated output
+*_report.txt
+server_check_log.txt
